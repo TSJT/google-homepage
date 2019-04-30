@@ -1,0 +1,1 @@
+Part of this project is reconstructing and rebuilding an already existing Web Page. The goal is to start thinking of how elements get placed on the page and how they get styled. 
